@@ -1,5 +1,7 @@
 # Intergalactic Flight Log Database (IFLD)
 
+This is an idea repo for now.  
+
 ## 1. Purpose & Vision
 
 Imagine you could make all OSS flight control systems better, improve your own drones capabilities, and unlock a ton of unrealized fun.
