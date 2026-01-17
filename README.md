@@ -47,6 +47,7 @@ IFLD prioritizes:
 - Large volumes of real flight data
 - Diversity of vehicles, pilots, environments, and failure modes
 - High-integrity provenance (signed uploads)
+- Resilience of the database
 
 ### 3.2 Friction Reduction for Volunteers
 
