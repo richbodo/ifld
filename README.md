@@ -100,11 +100,12 @@ This portfolio framing turns contribution into asset-building rather than just 
 
 ### 4.3 Contribution-Weighted Benefits
 
-Possible additional benefits for contributors - if the larger OSS and industrial ecosystem sees the benefit of creating them:
+Possible additional benefits for contributors - these are ideas I have mostly for industry initiatives that integrate with IFLD:
 
 - Access to enhanced analysis and visualization tools
 - Early access to new open-source control algorithms
 - Ability to compare personal flights against global baselines
+- AIs or humans could provide actionable ways to improve your drone.
 
 ### 4.4 Soft Reciprocity
 
@@ -404,5 +405,11 @@ IFLD aims to close the data gap that currently prevents open-source flight contr
 - Technically trustworthy
 - Long-lived and broadly reusable
 
+Notes:
+
 The project’s success depends on quiet competence: reducing friction, respecting contributors, and letting individual self-interest align naturally with collective progress.
+
+I've noticed that projects that are narrowly focused and developed in a decentralized and independent way seem to last a bit longer.  But validating data is a hard problem.
+
+IPFS collaborative clusters are here: https://collab.ipfscluster.io/
 
